@@ -1,0 +1,4 @@
+site_name: 自動車販売数の推移
+pages:
+- Home: index.md
+- About: about.md
