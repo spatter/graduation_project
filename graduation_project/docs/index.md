@@ -12,4 +12,6 @@
 ## 考察
     長期のデータが見つからなかったため、長期の流れはわからないが、ここ数年は良い時もあれば悪い時もあるという感じだろうか。2016年度で前年割れとなってくると市場が小さくなりつつあると言わざるを得なくなりそうだ。
 
+<div id="chart2"></div>
+
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
