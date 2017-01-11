@@ -12,8 +12,8 @@
           ['2011年度', 4753232]
         ]);
         var options1 = {'title':'新車販売台数',
-                       'width':800,
-                       'height':600};
+                       'width':400,
+                       'height':300};
         var chart1 = new google.visualization.BarChart(document.getElementById('chart1'));
         chart1.draw(data1, options1);
       }
