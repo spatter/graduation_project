@@ -11,9 +11,9 @@
           ['2012年度', 1522536],
           ['2011年度', 1420820]
         ]);
-        var options3 = {'title':'新車販売台数',
+        var options3 = {'title':'小型車販売台数',
                        'width':400,
                        'height':300};
-        var chart3 = new google.visualization.BarChart(document.getElementById('chart1'));
+        var chart3 = new google.visualization.BarChart(document.getElementById('chart3'));
         chart3.draw(data3, options3);
       }
