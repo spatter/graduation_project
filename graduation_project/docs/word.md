@@ -21,4 +21,5 @@
 # 出典
 
 [道路車両運送法施行規則　別表第一](http://www.k5.dion.ne.jp/~nplate/misc/m122_shorei.html#12)
+
 [自動車検査登録情報協会](https://www.airia.or.jp/info/system/02.html)
