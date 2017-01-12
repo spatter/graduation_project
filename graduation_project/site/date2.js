@@ -11,7 +11,7 @@
           ['2012年度', 1345357],
           ['2011年度', 1311793]
         ]);
-        var options2 = {'title':'新車販売台数',
+        var options2 = {'title':'普通車販売台数',
                        'width':400,
                        'height':300};
         var chart2 = new google.visualization.BarChart(document.getElementById('chart2'));

@@ -13,9 +13,9 @@
 
 
 ## 車種別販売台数
-<!-- 乗用車・小型車・軽自動車ごとの販売台数を調べる -->
+<!-- 普通乗用車・小型乗用車・軽乗用車ごとの販売台数を調べる -->
 
-### 普通車
+### 普通乗用車
 
 <div id="chart2"></div>
 [日本自動車販売協会連合会](http://www.jada.or.jp/contents/data/type/index02.html)
@@ -23,7 +23,7 @@
     2013年度が1番多い。
     2015年度で再び増加している。
 
-### 小型車
+### 小型乗用車
 
 <div id="chart3"></div>
 [日本自動車販売協会連合会](http://www.jada.or.jp/contents/data/type/index03.html)
