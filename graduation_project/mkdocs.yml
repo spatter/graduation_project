@@ -2,3 +2,4 @@ site_name: 卒業制作
 pages:
 - 自動車販売数の推移: index.md
 - 用語: word.md
+theme: readthedocs
